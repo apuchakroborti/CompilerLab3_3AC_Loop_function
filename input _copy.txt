@@ -1,0 +1,15 @@
+do x < y ? x := x + 7.111 ;
+od
+
+if x > y ? x:=x+1; ; := myfun := 3.14, false
+:: x < y ? y:=y+1; ; := aabc := 1 ,2 ,3 ,4,6
+fi
+
+//:= apu := ;
+//x,y := apu1 := ;
+ 
+//:= APU := 1,2,3;
+
+//r, y := myfun := 3.14, 37, false;
+
+//if x < y ? x := y-1; fi
